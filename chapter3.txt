@@ -1,1 +1,1 @@
-This is chapter three of my version control story and i am starting to actaully feel like a real developer.
+This is chapter three of my version control story and i am starting to actaully feel like a real developer. So this change is part of a new branch
