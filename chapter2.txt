@@ -1,1 +1,1 @@
-This page is for chapter two of my version control story.
+This page is for chapter two of my version control story. So this change is part of a new branch

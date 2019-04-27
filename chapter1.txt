@@ -1,1 +1,1 @@
-This is the beginning of a story about version control.
+This is the beginning of a story about version control. So this change is part of a new branch
